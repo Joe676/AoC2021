@@ -1,5 +1,5 @@
 """
-Solution for exercise 3 of Advent of Code 2021
+Solution for exercise 4 of Advent of Code 2021
 
 Each line of input is parsed and then variables x, y and aim are updated accordingly.
 """
